@@ -1,0 +1,18 @@
+{
+  "name": "react-native-import",
+  "version": "1.0.1",
+  "description": "Easy to manage, optimised and avoid recurring react-native imports in multiple files.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "react-native",
+    "react-native-import",
+    "react-native-imports",
+    "import",
+    "imports"
+  ],
+  "author": "Neel Gala",
+  "license": "MIT"
+}
