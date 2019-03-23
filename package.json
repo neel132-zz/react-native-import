@@ -1,6 +1,6 @@
 {
   "name": "react-native-import",
-  "version": "1.0.1",
+  "version": "1.0.4",
   "description": "Easy to manage, optimised and avoid recurring react-native imports in multiple files.",
   "main": "index.js",
   "scripts": {
@@ -11,8 +11,13 @@
     "react-native-import",
     "react-native-imports",
     "import",
-    "imports"
+    "imports",
+    "import management"
   ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/neel132/react-native-import"
+  },
   "author": "Neel Gala",
   "license": "MIT"
 }
